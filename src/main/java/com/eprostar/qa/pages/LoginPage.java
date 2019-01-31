@@ -45,4 +45,9 @@ public class LoginPage extends TestBase{
 		
 		return new UserInfoPage();
 	}
+	
+	public void loginSet()
+	{
+		System.out.println("test");
+	}
 }
